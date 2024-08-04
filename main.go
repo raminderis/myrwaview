@@ -31,17 +31,6 @@ func (x Router) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-// func pathHandler(w http.ResponseWriter, r *http.Request) {
-// 	switch r.URL.Path {
-// 	case "/":
-// 		homeHandler(w, r)
-// 	case "/contact":
-// 		contactHandler(w, r)
-// 	default:
-// 		http.Error(w, "Page Not Found", http.StatusNotFound)
-// 	}
-// }
-
 func main() {
 	var router Router
 	http.ListenAndServe(":3000", router)
