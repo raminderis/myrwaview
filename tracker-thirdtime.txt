@@ -1,0 +1,24 @@
+Started: 8/4/24
+
+Section1 : Done 8/4/24
+Section2 : Done 8/4/24
+Section3 : Done 8/4/24
+Section4 : Done 8/4/24
+Section5 : Done 7/12/24 NotStarted
+Section6 : Done 7/12/24 NotStarted
+Section7 : Done 7/14/24 NotStarted
+Section8 : Done 7/16/24 NotStarted
+Section9 : Done 7/16/24 NotStarted
+Section10 : Done 7/16/24 NotStarted
+Section11 : Done 7/16/24 NotStarted
+Section12 : Done 7/16/24 NotStarted
+Section13 : Done 7/17/24 NotStarted
+Section14 : Done 7/17/24 NotStarted
+Section15 : Done 7/17/24 NotStarted
+Section16 : Done 7/17/24 NotStarted
+Section17 : Done 7/18/24 NotStarted
+Section18 : Done 7/18/24 (very hard should do again) NotStarted
+Section19 : Done 7/19/24 (very hard should do again) NotStarted
+Section20 : NotStarted (error) NotStarted
+Section23 : Done 7/19/24 NotStarted
+Section24 : Done 7/19/24 NotStarted
