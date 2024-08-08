@@ -34,6 +34,7 @@ func (service *UserService) Create(email, password string) (*User, error) {
 		VALUES ($1, $2) RETURNING id`, email, passwordHash)
 	err = row.Scan(&user.ID)
 	if err != nil {
+		fmt.Println("raminder,service", err)
 		return nil, fmt.Errorf("create user: %w", err)
 	}
 	return &user, nil
