@@ -128,7 +128,7 @@ func (u Users) ProcessForgotPassword(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, "Something went wrong", http.StatusInternalServerError)
 		return
 	}
-	fmt.Println("token used is this:", pwReset.Token)
+	//fmt.Println("token used is this:", pwReset.Token)
 	vals := url.Values{
 		"token": {pwReset.Token},
 	}
